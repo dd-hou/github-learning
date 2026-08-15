@@ -14,6 +14,6 @@
 - [x] Edited the README
 - [x] Viewed commit history
 - [x] Created a new file
-- [ ] Created a new branch
+- [x] Created a new branch
 - [ ] Opened a pull request
 - [ ] Merged a pull request
