@@ -27,3 +27,13 @@ GitHub Issues are used to:
 - [x] Opened a pull request
 - [x] Merged a pull request
 - [x] Created and managed an issue
+
+## Local workflow
+
+GitHub Desktop connects local files with GitHub:
+
+1. Edit files locally
+2. Review the changes
+3. Create a commit
+4. Push the branch to GitHub
+5. Open and merge a pull request
